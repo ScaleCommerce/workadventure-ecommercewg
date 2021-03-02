@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ecommercewg.json"
+                 "value":"ecommercewg.json"
                 }],
          "type":"tilelayer",
          "visible":true,
